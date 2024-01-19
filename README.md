@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Unoloono
-- 👀 I’m interested in ...
+- 👀 I’m interested in learing HTML, CSS, JS and Python. 
 - 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - just text me..
+- 📫 How to reach me - just text me or write me an Mail.
 
 <!---
 Unoloono/Unoloono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
